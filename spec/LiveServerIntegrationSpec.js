@@ -26,7 +26,6 @@ describe("Live Node Chat Server", function() {
                        expect(messageLog[0].message).toEqual("Do my bidding!");
                        done();
                      });
-
            });
  });
 
